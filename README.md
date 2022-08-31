@@ -12,3 +12,15 @@ Miniconda3 macOS Intel x86 64-bit pkg
 ```
 conda create --prefix ./env pandas numpy matplotlib scikit-learn
 ```
+
+### activate
+
+```
+# To activate this environment, use
+#
+#     $ conda activate /Users/hono/Desktop/python-datascience/env
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+```
