@@ -10,3 +10,6 @@ deactivate:
 
 list:
 	conda env list
+
+jn:
+	jupyter notebook
