@@ -1,5 +1,8 @@
 # NumPy
 
+Numpyは数値計算をするためのパッケージ。
+これを使用することで、ベクトルや行列計算ができるようになる。
+
 NumPy stands for numerical python.
 NumPyで整形したデータのパターンを機械学習アルゴリズムが分析する。
 
