@@ -19,6 +19,7 @@ conda create --prefix ./env pandas numpy matplotlib scikit-learn
 conda activate /Users/hono/Desktop/python-datascience/env
 conda install jupyter
 conda install -c conda-forge plotnine
+conda install -c anaconda seaborn
 ```
 
 ### deactivate
