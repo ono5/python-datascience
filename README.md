@@ -20,6 +20,7 @@ conda activate /Users/hono/Desktop/python-datascience/env
 conda install jupyter
 conda install -c conda-forge plotnine
 conda install -c anaconda seaborn
+conda install -c conda-forge python-graphviz
 ```
 
 ### deactivate
